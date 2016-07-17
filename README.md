@@ -1,4 +1,4 @@
 # hello-world
 Tutorial Repo
 
-This is a tutorial file used to lewarn more about github.
+This is a tutorial file used to learn more about github.
